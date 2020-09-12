@@ -1,0 +1,21 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "Readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "erinmarie84"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
