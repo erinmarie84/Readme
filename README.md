@@ -1,9 +1,9 @@
 
 # Readme
 
-![image relative path]()
+![image relative path](readmescreen.png)
 
-
+This application allows the user to create a Readme file.
 
 ## Table of Contents 
 
@@ -16,12 +16,12 @@
 
 ### Technologies
 
- The technologies utilized in this application are as follows: , and .
+ The technologies utilized in this application are as follows: inquirer and fs, and Javascript, JSON, Node.
 
 ### Instalation
 
  To run this application successfully follow these steps:
-  1. Install []() to your local drive via terminal/GitBash. This will install the package.json file which contains a list of all the dependencies for this application. 
+  1. Install [Readme]() to your local drive via terminal/GitBash. This will install the package.json file which contains a list of all the dependencies for this application. 
 
   2. Verify that node is installed on your computer by typing 'node' in your terminal/GitBash. If it returns
     >Welcome to Node.js V12.14.1 (or higher)
@@ -33,7 +33,7 @@
 
 ### Usage
 
- The purpose of this program is to solve . The following is the expected output of the application: 
+ The purpose of this program is to solve Creates basic outline for readme file. The following is the expected output of the application: This application creates a Readme file that the user can utilize over and over by just answering a few questions. 
 
 ### Contribute
  
@@ -41,8 +41,8 @@
 
 ### Questions
 
- Any questions and/or comments are welcome. Please contact me at  or visit my [Github Profile](https://github.com/erinmarie84)
+ Any questions and/or comments are welcome. Please contact me at e_marie84@ymail.com or visit my [Github Profile](https://github.com/erinmarie84)
 
  ### License
 
- Licensed under the MIT license. ![link](https://img.shields.io/github/license/erinmarie84/?color=mediumgreen&style=plastic)
+ Licensed under the MIT license. ![link](https://img.shields.io/github/license/erinmarie84/Readme?color=mediumgreen&style=plastic)
